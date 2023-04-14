@@ -19,16 +19,16 @@ function NavBar() {
           <li className={styles.item}>
             <Link to="/projects">Projects</Link>
           </li>
-          <li className={styles.item}>
-            <Link to="/company">Company</Link>
-          </li>
-          <li className={styles.item}>
-            <Link to="/contact">Contact</Link>
-          </li>
+          <li className={styles.item}>Company</li>
+          <li className={styles.item}>Contact</li>
         </ul>
       </Container>
     </nav>
   );
 }
+/* 
+<Link to="/company">Company</Link>
+<Link to="/contact">Contact</Link>
+*/
 
 export default NavBar;

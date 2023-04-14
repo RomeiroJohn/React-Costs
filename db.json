@@ -1,44 +1,33 @@
 {
   "projects": [
     {
-      "name": "teste",
-      "budget": "5000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 773,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Projeto1",
-      "budget": "5000",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "Contratar editor de video",
+      "name": "Hire a video editor",
       "budget": "1500",
       "category": {
-        "id": "1",
-        "name": "Infraestructure"
+        "id": "2",
+        "name": "Development"
       },
-      "cost": 599,
+      "cost": 1000,
       "services": [
         {
-          "name": "Editar 3 primeiros videos",
-          "cost": "599",
-          "description": "Videos",
-          "id": "e45ca461-abd6-44d1-8f29-5984571fed05"
+          "name": "advanced VFX editions on car video",
+          "cost": "1000",
+          "description": "VFX editions on drift scene",
+          "id": "2c09a326-5e7b-49c7-8a86-a3c6efb1f4d1"
         }
       ],
       "id": 3
+    },
+    {
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "name": "recreate our website front-end",
+      "budget": "10000",
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
