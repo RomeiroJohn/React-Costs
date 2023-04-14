@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "name": "teste",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 773,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "Projeto1",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "Contratar editor de video",
+      "budget": "1500",
+      "category": {
+        "id": "1",
+        "name": "Infraestructure"
+      },
+      "cost": 599,
+      "services": [
+        {
+          "name": "Editar 3 primeiros videos",
+          "cost": "599",
+          "description": "Videos",
+          "id": "e45ca461-abd6-44d1-8f29-5984571fed05"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestructure"
+    },
+    {
+      "id": 2,
+      "name": "Development"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planning"
+    }
+  ]
+}
