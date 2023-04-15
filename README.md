@@ -40,3 +40,14 @@ The main objective is manage your projects, setting budgets, creating services a
   <li>State Life</li>
   <li>data manipulation with API</li>
 </ul>
+
+## instructions to run the project:
+
+<ol>
+<li>Certify you have nodeJS installed on your machine</li>
+<li>Open your console and install each package in package.json using <b>npm install</b></li>
+<li>Now you need to open 2 consoles and run theses commands:<br>
+<b>npm start:</b> runs the application<br>
+<b>npm run backend</b> runs the db.json file (our noSQL database)
+</li>
+</ol>
